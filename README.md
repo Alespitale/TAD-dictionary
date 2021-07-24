@@ -14,3 +14,5 @@ elegida para la implementación. Se debe completar la implementación.
 definiciones. Abrir el archivo y estudiarlo.
 
 ● string.h: contiene las definiciones del tipo string.c.
+
+## Materia: Algoritmos y estructura de datos 2
